@@ -19,10 +19,10 @@
 <br>
 
 <h4 align="center">⚡ Database</h4>
-<p align="center">
+<align="center">
    <img align="center" alt="mongodb" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+</align>
    
 <br>
 
