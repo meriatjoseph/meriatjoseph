@@ -25,4 +25,17 @@
 </p>
    
 <br>
+
+<h4 align="center">🚀 Frameworks & Library</h4>
+<p align="center">
+   <img align="center" alt="anaconda" width="auto" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+   <img align="center" alt="fastAPI" width="auto" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+   <img align="center" alt="jupyter" width="auto" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+   <img align="center" alt="powerBI" width="auto" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+   <img align="center" alt="R" width="auto" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+   <img align="center" alt="scrapy" width="auto" src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+   <img align="center" alt="selenium" width="auto" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+</p>
+   
+<br>
    
