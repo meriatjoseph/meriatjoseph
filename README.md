@@ -39,8 +39,9 @@
    
 <br>
 <br>
-
+<div align="center">
    [![](https://github-readme-streak-stats.herokuapp.com/?user=meriatjoseph&theme=material-palenight)](https://github.com/meriatjoseph)
-
+</div>
+   
 
    
