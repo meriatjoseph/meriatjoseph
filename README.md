@@ -41,6 +41,5 @@
 <br>
 
 [![](https://github-readme-stats.vercel.app/api?username=meriatjoseph&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/meriatjoseph) 
-<br>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=meriatjoseph&theme=material-palenight)](https://github.com/meriatjoseph)
    
