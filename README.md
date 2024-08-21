@@ -11,9 +11,17 @@
    
 <br>
 
-<h4 align="center">☁ Cloud </h4>
+<h4 align="center">☁ Cloud</h4>
 <p align="center">
    <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+   
+<br>
+
+<h4 align="center">⚡ Database</h4>
+<p align="center">
+   <img align="center" alt="mongodb" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
    
 <br>
