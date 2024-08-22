@@ -85,9 +85,8 @@
 </p>
 
 <br>
-
+<img align="center">
    [![](https://github-readme-streak-stats.herokuapp.com/?user=meriatjoseph&theme=material-palenight)](https://github.com/meriatjoseph)
-
-   
-
+</img>
+<br>
    
