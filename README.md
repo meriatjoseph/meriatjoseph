@@ -84,9 +84,7 @@
   <img align="center" alt="linkedin" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<br>
-<img align="center">
+<br> 
    [![](https://github-readme-streak-stats.herokuapp.com/?user=meriatjoseph&theme=material-palenight)](https://github.com/meriatjoseph)
-</img>
 <br>
    
