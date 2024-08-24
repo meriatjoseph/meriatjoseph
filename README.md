@@ -2,7 +2,7 @@
 
 ![big-data-analytics-Career](https://github.com/user-attachments/assets/4e23b4eb-322b-4f77-962c-4c91a2b66905)
 
-<br><br>
+<br><br> 
 <h4 align="center">🤖 Artificial Intelligence</h4>
 <p align="center">
    <img align="center" alt="chatgpt" width="auto" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
